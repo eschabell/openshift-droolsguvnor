@@ -27,5 +27,7 @@ Then push the repo upstream
 
 That's it, you can now checkout your application at:
 
-    http://droolguvnor-$your_domain.rhcloud.com:8080/guvnor-webapp
+    http://droolguvnor-$your_domain.rhcloud.com/drools-guvnor
+
+Note: there is no index.html for this project, only the above URL will work.
 
