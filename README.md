@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/openshift-droolsguvnor)
+
+
 Drools Guvnor on OpenShift
 ==========================
 Installing the Guvnor component on OpenShift was never easier!
